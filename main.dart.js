@@ -34374,8 +34374,8 @@ $2$after(a,b){return this.F(this,A.G("$2$after","$2$after",0,[a,b],["after"],0))
 $2$hitTest$paintTransform(a,b){return this.F(this,A.G("$2$hitTest$paintTransform","$2$hitTest$paintTransform",0,[a,b],["hitTest","paintTransform"],0))},
 $3$crossAxisPosition$mainAxisPosition(a,b,c){return this.F(this,A.G("$3$crossAxisPosition$mainAxisPosition","$3$crossAxisPosition$mainAxisPosition",0,[a,b,c],["crossAxisPosition","mainAxisPosition"],0))},
 $2$hitTest$paintOffset(a,b){return this.F(this,A.G("$2$hitTest$paintOffset","$2$hitTest$paintOffset",0,[a,b],["hitTest","paintOffset"],0))},
-$3$textDirection(a,b,c){return this.F(this,A.G("$3$textDirection","$3$textDirection",0,[a,b,c],["textDirection"],0))},
 $2$padding$viewPadding(a,b){return this.F(this,A.G("$2$padding$viewPadding","$2$padding$viewPadding",0,[a,b],["padding","viewPadding"],0))},
+$3$textDirection(a,b,c){return this.F(this,A.G("$3$textDirection","$3$textDirection",0,[a,b,c],["textDirection"],0))},
 $1$range(a){return this.F(this,A.G("$1$range","$1$range",0,[a],["range"],0))},
 $1$paragraphWidth(a){return this.F(this,A.G("$1$paragraphWidth","$1$paragraphWidth",0,[a],["paragraphWidth"],0))},
 $4$boxHeightStyle$boxWidthStyle(a,b,c,d){return this.F(this,A.G("$4$boxHeightStyle$boxWidthStyle","$4$boxHeightStyle$boxWidthStyle",0,[a,b,c,d],["boxHeightStyle","boxWidthStyle"],0))},
@@ -59284,7 +59284,7 @@ A.EK.prototype={
 S(a){return B.EV}}
 A.Ab.prototype={
 S(a){var s=null,r=A.Um()
-return new A.kW(A.ai6(A.a6v(s,new A.ev(B.yA,A.a38(A.Cy(new A.zL(new A.Vs(new A.R9(),1,!0,!0,!0,s),s,B.an,!1,r,s,B.vD,!1,s,1,B.bw,B.F2,s,B.aN,s),s,400),s,s),s),s,s,s,s,B.b2,s),!0),B.iS,s)}}
+return new A.kW(A.a6v(s,A.ai6(new A.ev(B.yA,A.a38(A.Cy(new A.zL(new A.Vs(new A.R9(),1,!0,!0,!0,s),s,B.an,!1,r,s,B.vD,!1,s,1,B.bw,B.F2,s,B.aN,s),s,400),s,s),s),!0),s,s,s,s,B.b2,s),B.iS,s)}}
 A.R9.prototype={
 $2(a,b){return B.xY},
 $S:369}
