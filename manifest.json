@@ -1,6 +1,6 @@
 {
-    "name": "kilombo_web2",
-    "short_name": "kilombo_web2",
+    "name": "kilombo_app",
+    "short_name": "kilombo_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
