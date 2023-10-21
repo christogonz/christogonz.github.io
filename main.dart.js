@@ -19682,11 +19682,12 @@ _.e=c
 _.f=d
 _.r=e
 _.a=f},
-ph:function ph(a,b,c,d){var _=this
+ph:function ph(a,b,c,d,e){var _=this
 _.c=a
 _.d=b
 _.e=c
-_.a=d},
+_.f=d
+_.a=e},
 q4:function q4(a,b){this.c=a
 this.a=b},
 qb:function qb(a,b,c,d,e,f){var _=this
@@ -19696,9 +19697,12 @@ _.e=c
 _.f=d
 _.r=e
 _.a=f},
-qh:function qh(a,b,c){this.d=a
-this.e=b
-this.a=c},
+qh:function qh(a,b,c,d,e){var _=this
+_.d=a
+_.e=b
+_.r=c
+_.x=d
+_.a=e},
 qJ:function qJ(a,b,c){this.c=a
 this.d=b
 this.a=c},
@@ -60145,7 +60149,7 @@ A.Y0.prototype={
 $1(a){return!0},
 $S:42}
 A.AI.prototype={
-P(a){return new A.qP(B.EQ,"Flutter Demo",A.a9M(null,A.aft(B.T,B.xQ),!0),!1,null)}}
+P(a){return new A.qP(B.EQ,"Kilombo",A.a9M(null,A.aft(B.T,B.xQ),!0),!1,null)}}
 A.pv.prototype={
 ap(){return new A.yG(B.m)}}
 A.yG.prototype={
@@ -60157,16 +60161,16 @@ A.ke.prototype={
 P(a){var s=this,r=null
 return new A.yU(s.r,r,r,r,A.a3Q(r,r,B.D7,new A.bt(30,t.fe),r,new A.bt(new A.N(s.d,s.e),t.pY),r,r,r,r,r,r,r,r,r,new A.bt(new A.bX(A.hs(10),B.t),t.dj),r,r,r,r,r,r),B.L,r,!1,r,A.fg(s.c,r,r,A.cY(r,r,B.cb,r,r,r,r,r,r,r,r,s.f,r,r,B.b6,r,r,!0,r,r,r,r,r,r,r,r),r,r),r)}}
 A.ph.prototype={
-P(a){var s=null,r=t.F
-return A.e_(A.a([A.fg("Contact Us",s,s,A.cY(s,s,B.cb,s,s,s,s,s,s,s,s,this.c,s,s,B.aW,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cZ,A.a4_(s,new A.dy(B.yI,A.e_(A.a([B.cZ,A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo7tablet.jpg",B.aj,s,600)),B.cZ,A.e_(A.a([A.fg("Contact us and let yourself be infected by the energy of Brazil.",s,s,A.cY(s,s,B.i,s,s,s,s,s,s,s,s,this.d,s,s,B.aW,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cZ,A.fg("Some of the benefits of hiring Kilombo:\n                 \n* A full-fledged show full of energy and fun\n* A group of passionate and experienced musicians\n* A wide variety of Brazilian rhythms\n* A flexible team that adapts to the needs of clients\n                            \nContact us today and request a quote without obligation.\n                        ",s,s,A.cY(s,s,B.c9,s,s,s,s,s,s,s,s,this.e,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.b1,A.jB(A.e_(A.a([A.Cs(A.a([A.fN("assets/mobile_img/gmail_icon.png",B.aj,28,37),B.hn,B.LA],r),B.bF,B.bf),B.b1,A.Cs(A.a([A.fN("assets/mobile_img/insta_icon.png",B.aj,35,35),B.hn,B.LC],r),B.bF,B.bf)],r),B.as),s,600)],r),B.aS)],r),B.as),s),s,B.vO,s,s,s,800)],r),B.as)}}
+P(a){var s=this,r=null,q=t.F
+return A.e_(A.a([A.fg("Contact Us",r,r,A.cY(r,r,B.cb,r,r,r,r,r,r,r,r,s.c,r,r,B.aW,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.cZ,A.a4_(r,new A.dy(B.yI,A.e_(A.a([B.cZ,A.ki(A.hs(20),A.fN(s.f,B.aj,r,600)),B.cZ,A.e_(A.a([A.fg("Contact us and let yourself be infected by the energy of Brazil.",r,r,A.cY(r,r,B.i,r,r,r,r,r,r,r,r,s.d,r,r,B.aW,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.cZ,A.fg("Some of the benefits of hiring Kilombo:\n                 \n* A full-fledged show full of energy and fun\n* A group of passionate and experienced musicians\n* A wide variety of Brazilian rhythms\n* A flexible team that adapts to the needs of clients\n                            \nContact us today and request a quote without obligation.\n                        ",r,r,A.cY(r,r,B.c9,r,r,r,r,r,r,r,r,s.e,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.b1,A.jB(A.e_(A.a([A.Cs(A.a([A.fN("assets/mobile_img/gmail_icon.png",B.aj,28,37),B.hn,B.LA],q),B.bF,B.bf),B.b1,A.Cs(A.a([A.fN("assets/mobile_img/insta_icon.png",B.aj,35,35),B.hn,B.LC],q),B.bF,B.bf)],q),B.as),r,600)],q),B.aS)],q),B.as),r),r,B.vO,r,r,r,800)],q),B.as)}}
 A.q4.prototype={
 P(a){return A.e_(A.a([A.fN("assets/mobile_img/kilombo_logo_black_transparent.png",B.aj,null,this.c),B.b1,B.DW],t.F),B.as)}}
 A.qb.prototype={
 P(a){var s=this,r=null,q=t.F
 return A.e_(A.a([A.fg("Feel The Energy",r,r,A.cY(r,r,B.i,r,r,r,r,r,r,r,r,s.c,r,r,B.b6,r,0.95,!0,r,r,r,r,r,r,r,r),r,r),B.Gy,A.a84("KILOMBO\nSAMBA",B.Ag,A.cY(r,r,B.cb,r,r,r,r,r,r,r,r,s.d,r,r,B.aW,r,0.95,!0,r,r,r,r,r,r,r,r)),A.fg("JOIN THE PARTY",r,r,A.cY(r,r,B.i,r,r,r,r,r,r,r,r,s.e,r,r,B.aW,r,0.95,!0,r,r,r,r,r,r,r,r),r,r),B.Gu,A.Cs(A.a([A.fg("Music is the best medicine for the soul. ",r,r,A.cY(r,r,B.c9,r,r,r,r,r,r,r,r,s.f,r,r,B.aW,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.a84(" Let us heal you.",B.Af,A.cY(r,r,B.eZ,r,r,r,r,r,r,r,r,s.r,r,r,B.aW,r,r,!0,r,r,r,r,r,r,r,r))],q),B.bF,B.bf)],q),B.aS)}}
 A.qh.prototype={
-P(a){var s=17976931348623157e292,r=this.d,q=this.e,p=t.F
-return A.e_(A.a([A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo1.jpg",B.aj,null,s)),B.b1,A.Cs(A.a([A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo5tablet.jpg",B.aj,q,r)),B.Gt,A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo4.jpg",B.aj,q,r))],p),B.CO,B.bf),B.b1,A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo3tablet.jpg",B.aj,null,s))],p),B.as)}}
+P(a){var s=this,r=17976931348623157e292,q=s.d,p=s.e,o=t.F
+return A.e_(A.a([A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo1.jpg",B.aj,null,r)),B.b1,A.Cs(A.a([A.ki(A.hs(20),A.fN(s.r,B.aj,p,q)),B.Gt,A.ki(A.hs(20),A.fN("assets/mobile_img/kilombo4.jpg",B.aj,p,q))],o),B.CO,B.bf),B.b1,A.ki(A.hs(20),A.fN(s.x,B.aj,null,r))],o),B.as)}}
 A.qJ.prototype={
 P(a){return new A.dy(B.yF,A.ki(B.i5,A.fN("assets/mobile_img/logo_mobile.png",B.aj,this.d,this.c)),null)}}
 A.qX.prototype={
@@ -60186,7 +60190,7 @@ $0(){},
 $S:0}
 A.a_X.prototype={
 $2(a,b){var s=17976931348623157e292,r=this.a,q=t.F
-return A.e_(A.a([new A.dy(B.yE,A.e_(A.a([B.CK,B.aK,B.z4,B.aK,new A.ke("About Us",s,63,20,new A.a_V(r),null),B.cZ,new A.ke("Contact Us",s,63,20,new A.a_W(r),null),B.aK,B.zj,B.aK,B.vo,B.y2,B.b1,B.yZ],q),B.as),null)],q),B.as)},
+return A.e_(A.a([new A.dy(B.yE,A.e_(A.a([B.CK,B.aK,B.z4,B.aK,new A.ke("About Us",s,63,20,new A.a_V(r),null),B.cZ,new A.ke("Contact Us",s,63,20,new A.a_W(r),null),B.aK,B.zj,B.aK,B.vo,B.y3,B.b1,B.yZ],q),B.as),null)],q),B.as)},
 $S:82}
 A.a_V.prototype={
 $0(){this.a.d.ee(1270,B.db,B.a3)},
@@ -60209,7 +60213,7 @@ P(a){var s=null,r=A.CE()
 return A.a52(s,A.a52(B.f_,A.a9h(new A.dy(B.yK,A.M3(A.jB(A.a8p(r,new A.WD(r),1,s),s,800),s,s),s),!0)))}}
 A.WD.prototype={
 $2(a,b){var s=17976931348623157e292,r=this.a
-return A.e_(A.a([B.CL,B.aK,B.z3,B.aK,new A.ke("About Us",s,65,30,new A.WB(r),null),B.aK,new A.ke("Contact Us",s,65,30,new A.WC(r),null),B.aK,B.zk,B.aK,B.vp,B.y3,B.b1,B.z_],t.F),B.as)},
+return A.e_(A.a([B.CL,B.aK,B.z3,B.aK,new A.ke("About Us",s,65,30,new A.WB(r),null),B.aK,new A.ke("Contact Us",s,65,30,new A.WC(r),null),B.aK,B.zk,B.aK,B.vp,B.y2,B.b1,B.z_],t.F),B.as)},
 $S:82}
 A.WB.prototype={
 $0(){this.a.ee(1370,B.db,B.a3)},
@@ -62661,8 +62665,8 @@ B.xX=new A.v(4294638330)
 B.xZ=new A.v(436207616)
 B.y_=new A.v(520093696)
 B.y0=new A.v(536870911)
-B.y2=new A.ph(50,15,13,null)
-B.y3=new A.ph(65,20,22,null)
+B.y2=new A.ph(65,20,22,"assets/mobile_img/kilombo7tablet.jpg",null)
+B.y3=new A.ph(50,15,13,"assets/mobile_img/kilombo7.jpg",null)
 B.aS=new A.kk(0,"start")
 B.y4=new A.kk(1,"end")
 B.as=new A.kk(2,"center")
@@ -62801,8 +62805,8 @@ B.zg=new A.mv(0,"repeat")
 B.zh=new A.mv(1,"repeatX")
 B.zi=new A.mv(2,"repeatY")
 B.ce=new A.mv(3,"noRepeat")
-B.zj=new A.qh(157,240,null)
-B.zk=new A.qh(290,340,null)
+B.zj=new A.qh(157,240,"assets/mobile_img/kilombo5.jpg","assets/mobile_img/kilombo3.jpg",null)
+B.zk=new A.qh(290,340,"assets/mobile_img/kilombo5tablet.jpg","assets/mobile_img/kilombo3tablet.jpg",null)
 B.zm=new A.fQ(0,0.1,B.a4)
 B.zo=new A.fQ(0.125,0.25,B.a4)
 B.zn=new A.fQ(0.6,1,B.a4)
