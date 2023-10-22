@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "c455e40e7ef59e7c750afbb1fa5bf26a",
-"index.html": "22829f90231c81919d2cedd86337c67d",
-"/": "22829f90231c81919d2cedd86337c67d",
-"main.dart.js": "86d2282f0144c094b7c16a6eb2785d10",
+"index.html": "373074ab0b5ed55e4cd9cc7e6e2d107e",
+"/": "373074ab0b5ed55e4cd9cc7e6e2d107e",
+"main.dart.js": "f38d974e00cd9b1f7f7077f91b4a0bc3",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "3fad56e51b2d2bc6753f7aac27b7b3b8",
 "icons/kilombo_icon192x192.png": "ea257fb89dcf6b4dc866435a234d4560",
